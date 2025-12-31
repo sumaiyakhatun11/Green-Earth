@@ -2,13 +2,6 @@
 
 A modern, responsive plant e-commerce web application where users can browse plants, filter by categories, add them to their cart, and complete their purchase. Built with vanilla JavaScript and styled with Tailwind CSS.
 
-## 📸 Screenshot
-
-![Green Earth Preview](./assets/screenshot.png)
-<!-- Add your project screenshot here -->
-
-## 📖 Project Overview
-
 Green Earth is a single-page application (SPA) that allows users to shop for plants online with an intuitive and eco-friendly interface. The app fetches real-time plant data from an external API, displays it in a responsive grid layout, and provides seamless category filtering and shopping cart functionality. With its "Plant a Tree, Grow a Future" mission, the project promotes environmental awareness while delivering a modern e-commerce experience.
 
 ## 🚀 Core Features
